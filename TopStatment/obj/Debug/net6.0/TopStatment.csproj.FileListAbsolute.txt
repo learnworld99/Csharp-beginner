@@ -1,0 +1,15 @@
+D:\bootcamp\.net_framework\TopStatment\bin\Debug\net6.0\TopStatment.exe
+D:\bootcamp\.net_framework\TopStatment\bin\Debug\net6.0\TopStatment.deps.json
+D:\bootcamp\.net_framework\TopStatment\bin\Debug\net6.0\TopStatment.runtimeconfig.json
+D:\bootcamp\.net_framework\TopStatment\bin\Debug\net6.0\TopStatment.dll
+D:\bootcamp\.net_framework\TopStatment\bin\Debug\net6.0\TopStatment.pdb
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\TopStatment.csproj.AssemblyReference.cache
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\TopStatment.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\TopStatment.AssemblyInfoInputs.cache
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\TopStatment.AssemblyInfo.cs
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\TopStatment.csproj.CoreCompileInputs.cache
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\TopStatment.dll
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\refint\TopStatment.dll
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\TopStatment.pdb
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\TopStatment.genruntimeconfig.cache
+D:\bootcamp\.net_framework\TopStatment\obj\Debug\net6.0\ref\TopStatment.dll

@@ -1,0 +1,8 @@
+D:\bootcamp\.net_framework\TouringCsharp5\bin\Debug\TouringCsharp5.exe.config
+D:\bootcamp\.net_framework\TouringCsharp5\bin\Debug\TouringCsharp5.exe
+D:\bootcamp\.net_framework\TouringCsharp5\bin\Debug\TouringCsharp5.pdb
+D:\bootcamp\.net_framework\TouringCsharp5\obj\Debug\TouringCsharp5.csproj.AssemblyReference.cache
+D:\bootcamp\.net_framework\TouringCsharp5\obj\Debug\TouringCsharp5.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\.net_framework\TouringCsharp5\obj\Debug\TouringCsharp5.csproj.CoreCompileInputs.cache
+D:\bootcamp\.net_framework\TouringCsharp5\obj\Debug\TouringCsharp5.exe
+D:\bootcamp\.net_framework\TouringCsharp5\obj\Debug\TouringCsharp5.pdb

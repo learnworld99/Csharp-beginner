@@ -1,0 +1,8 @@
+D:\bootcamp\.net_framework\TouringCshap3\bin\Debug\TouringCshap3.exe.config
+D:\bootcamp\.net_framework\TouringCshap3\bin\Debug\TouringCshap3.exe
+D:\bootcamp\.net_framework\TouringCshap3\bin\Debug\TouringCshap3.pdb
+D:\bootcamp\.net_framework\TouringCshap3\obj\Debug\TouringCshap3.csproj.AssemblyReference.cache
+D:\bootcamp\.net_framework\TouringCshap3\obj\Debug\TouringCshap3.csproj.SuggestedBindingRedirects.cache
+D:\bootcamp\.net_framework\TouringCshap3\obj\Debug\TouringCshap3.csproj.CoreCompileInputs.cache
+D:\bootcamp\.net_framework\TouringCshap3\obj\Debug\TouringCshap3.exe
+D:\bootcamp\.net_framework\TouringCshap3\obj\Debug\TouringCshap3.pdb
